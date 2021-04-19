@@ -37,10 +37,11 @@
   } */
 
 video{
-    max-width: 100%;
-    width: 85%;
+    
+    max-width: 92%;
     height: auto;
-    margin: auto;
+    margin-right: auto;
+    margin-left: auto;
     
 }
 
@@ -113,9 +114,9 @@ video{
 
   .mydivs>div {
 
-              max-width:80%;
+              max-width:75%;
               height:auto;
-              margin: auto;
+              margin-left: 15%;
 
 
 
@@ -186,7 +187,8 @@ video{
     background-image: url(img/zoom3.png);
     background-repeat: no-repeat;
     background-size: 100%;
-    background-position:center center;
+    background-color: black;
+    
     
   }
 
