@@ -1,4 +1,5 @@
 # Project Name: The Pandemic Express
+Team: Noora, Yegor, Ali
 
 Project Description: 
 
